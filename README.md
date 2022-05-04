@@ -1,4 +1,5 @@
 # YouBike_guessing_game
+作者：建國中學 李逸馳
 YouBike猜謎遊戲
 something_about_youbike.aia是此app的MIT App Inventor專案，可以視為原始碼。
 something_about_youbike.apk是Android app的安裝檔，下載後可用於安裝此app。
